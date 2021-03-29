@@ -1,3 +1,5 @@
 .stack-work/
 *~
 /FSSizes.cabal
+/stack.yaml.lock
+/.projectile
